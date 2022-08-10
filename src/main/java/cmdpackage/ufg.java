@@ -36,11 +36,7 @@ public class ufg {
             while (listIterator.hasNext()) {
                 S3Object object = listIterator.next();
                 System.out.println(object.key());
-
             }
-
         }
-
-
     }
 }
