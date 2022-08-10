@@ -1,4 +1,4 @@
-package GetObjects;
+package getobjects;
 
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.SdkClientException;
